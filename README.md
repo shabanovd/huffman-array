@@ -1,2 +1,2 @@
-# huffman-array
+# Huffman Array
 Huffman coding using an array
